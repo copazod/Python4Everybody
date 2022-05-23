@@ -1,0 +1,1 @@
+print('Optional Assignment')
